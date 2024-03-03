@@ -1,0 +1,4 @@
+#Sun Mar 03 16:09:45 IST 2024
+base.0=C\:\\Users\\omesh\\StudioProjects\\Omesh06\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
